@@ -1,2 +1,1 @@
-# Progintro Project
-Under development
+strojar vsechno upravi
