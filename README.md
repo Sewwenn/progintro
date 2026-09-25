@@ -1,1 +1,1 @@
-strojar vsechno upravi
+upraveno
